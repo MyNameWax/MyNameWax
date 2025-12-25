@@ -3,7 +3,7 @@
 - 🌹 我是一名练习时长二年半的Java攻城狮.
 - :pencil: 博客：[CSDN](https://blog.csdn.net/m0_73946825?spm=1000.2115.3001.5343) | [掘金](https://juejin.cn/user/3186862567463412)
 - 🏡 我的开源： <a href="https://github.com/MyNameWax/Spider" target="_blank">爬虫工具箱</a> | <a href="https://github.com/MyNameWax/Exam" target="_blank">在线智能考试判题系统</a> | <a href="https://github.com/MyNameWax/PayPerTick" target="_blank">牛马鞭策器-IDEA</a> | <a href="https://github.com/MyNameWax?tab=repositories" target="_blank">更多开源项目</a>
-- ⭐️ 我的工具： <a href="https://spider007.icu/" target="_blank">开发百宝箱</a> 
+- ⭐️ 学习订阅： <a href="https://spider007.icu/" target="_blank">愚蒙课堂>ya> 
 
 ### 我的技能(my skills)   
 
